@@ -1,7 +1,7 @@
 {
     "name": "cse110_lab8",
     "short_name": "Samantha Phan",
-    "description": "",
+    "description": "site for recipies",
     "start_url": "/index.html",
     "display": "standalone",
     "background_color": "pink",
